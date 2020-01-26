@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question type="multiple" choice="ch">
+<question_begin>ﺎ‎</question_begin>
+<choice>be</choice>
+<choice>elif</choice>
+<choice>te</choice>
+<choice>sin</choice>
+<question_end />
+<correct>elif</correct>
+<question_begin>ب‎</question_begin>
+<choice>elif</choice>
+<choice>be</choice>
+<choice>te</choice>
+<choice>se</choice>
+<question_end />
+<correct>be</correct>
+<question_begin>ت‎‎</question_begin>
+<choice>sin</choice>
+<choice>elif</choice>
+<choice>te</choice>
+<choice>ha</choice>
+<question_end />
+<correct>te</correct>
+<question_begin>ث‎</question_begin>
+<choice>elif</choice>
+<choice>be</choice>
+<choice>te</choice>
+<choice>se</choice>
+<question_end />
+<correct>se</correct>
+<question_begin>ج‎</question_begin>
+<choice>cim</choice>
+<choice>ha</choice>
+<choice>dal</choice>
+<choice>hi</choice>
+<question_end />
+<correct>cim</correct>
+<question_begin>ح‎</question_begin>
+<choice>cim</choice>
+<choice>ha</choice>
+<choice>dal</choice>
+<choice>hi</choice>
+<question_end />
+<correct>ha</correct>
+<question_begin>خ‎</question_begin>
+<choice>cim</choice>
+<choice>ha</choice>
+<choice>dal</choice>
+<choice>hi</choice>
+<question_end />
+<correct>hi</correct>
+<question_begin>د‎</question_begin>
+<choice>cim</choice>
+<choice>ha</choice>
+<choice>dal</choice>
+<choice>hi</choice>
+<question_end />
+<correct>dal</correct>
+<question_begin>ذ‎</question_begin>
+<choice>ze</choice>
+<choice>zel</choice>
+<choice>ra</choice>
+<choice>sin</choice>
+<question_end />
+<correct>zel</correct>
+<question_begin>ر‎</question_begin>
+<choice>ze</choice>
+<choice>zel</choice>
+<choice>ra</choice>
+<choice>sin</choice>
+<question_end />
+<correct>ra</correct>
+<question_begin>ز</question_begin>
+<choice>ze</choice>
+<choice>zel</choice>
+<choice>ra</choice>
+<choice>sin</choice>
+<question_end />
+<correct>ze</correct>
+<question_begin>س‎‎</question_begin>
+<choice>ze</choice>
+<choice>zel</choice>
+<choice>ra</choice>
+<choice>sin</choice>
+<question_end />
+<correct>sin</correct>
+<question_begin>ش‎‎‎</question_begin>
+<choice>şin</choice>
+<choice>sin</choice>
+<choice>sad</choice>
+<choice>dad</choice>
+<question_end />
+<correct>şin</correct>
+<question_begin>ص‎‎‎‎</question_begin>
+<choice>şin</choice>
+<choice>sin</choice>
+<choice>sad</choice>
+<choice>dad</choice>
+<question_end />
+<correct>sad</correct>
+<question_begin>ض‎‎‎‎</question_begin>
+<choice>şin</choice>
+<choice>sin</choice>
+<choice>sad</choice>
+<choice>dad</choice>
+<question_end />
+<correct>dad</correct>
+<question_begin>ط‎‎</question_begin>
+<choice>ta</choice>
+<choice>ayn</choice>
+<choice>za</choice>
+<choice>ğayn</choice>
+<question_end />
+<correct>ta</correct>
+<question_begin>ظ‎</question_begin>
+<choice>ta</choice>
+<choice>ayn</choice>
+<choice>za</choice>
+<choice>ğayn</choice>
+<question_end />
+<correct>za</correct>
+<question_begin>ع‎</question_begin>
+<choice>ta</choice>
+<choice>ayn</choice>
+<choice>za</choice>
+<choice>ğayn</choice>
+<question_end />
+<correct>ayn</correct>
+<question_begin>غ</question_begin>
+<choice>ta</choice>
+<choice>ayn</choice>
+<choice>za</choice>
+<choice>ğayn</choice>
+<question_end />
+<correct>ğayn</correct>
+<question_begin>ف</question_begin>
+<choice>kaf</choice>
+<choice>lam</choice>
+<choice>kef</choice>
+<choice>fe</choice>
+<question_end />
+<correct>fe</correct>
+<question_begin>ق‎</question_begin>
+<choice>kaf</choice>
+<choice>lam</choice>
+<choice>kef</choice>
+<choice>fe</choice>
+<question_end />
+<correct>kaf</correct>
+<question_begin>ك‎</question_begin>
+<choice>kaf</choice>
+<choice>lam</choice>
+<choice>kef</choice>
+<choice>fe</choice>
+<question_end />
+<correct>kef</correct>
+<question_begin>ل</question_begin>
+<choice>kaf</choice>
+<choice>lam</choice>
+<choice>kef</choice>
+<choice>fe</choice>
+<question_end />
+<correct>lam</correct>
+<question_begin>م</question_begin>
+<choice>mim</choice>
+<choice>ye</choice>
+<choice>nun</choice>
+<choice>vav</choice>
+<question_end />
+<correct>mim</correct>
+<question_begin>ن‎</question_begin>
+<choice>mim</choice>
+<choice>ye</choice>
+<choice>nun</choice>
+<choice>vav</choice>
+<question_end />
+<correct>nun</correct>
+<question_begin>و</question_begin>
+<choice>mim</choice>
+<choice>ye</choice>
+<choice>nun</choice>
+<choice>vav</choice>
+<question_end />
+<correct>vav</correct>
+<question_begin>ه</question_begin>
+<choice>mim</choice>
+<choice>he</choice>
+<choice>ye</choice>
+<choice>vav</choice>
+<question_end />
+<correct>he</correct>
+<question_begin>ي</question_begin>
+<choice>he</choice>
+<choice>ye</choice>
+<choice>nun</choice>
+<choice>vav</choice>
+<question_end />
+<correct>ye</correct>
+</question>

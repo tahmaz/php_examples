@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question type="multiple" choice="ch">
+<question_begin>5 + ... = 15</question_begin>
+<choice>5</choice>
+<choice>7</choice>
+<choice>10</choice>
+<choice>12</choice>
+<question_end />
+<correct>10</correct>
+<question_begin>5 + ... = 8</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>3</correct>
+<question_begin>8 - ... = 4</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>4</correct>
+<question_begin>12 - ... = 8</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>4</correct>
+<question_begin>4 + ... = 9</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>5</correct>
+<question_begin>1 + ... = 8</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>7</choice>
+<question_end />
+<correct>7</correct>
+<question_begin>7 + ... = 8</question_begin>
+<choice>1</choice>
+<choice>2</choice>
+<choice>3</choice>
+<choice>4</choice>
+<question_end />
+<correct>1</correct>
+<question_begin>9 - ... = 6</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>3</correct>
+<question_begin>15 - ... = 8</question_begin>
+<choice>3</choice>
+<choice>4</choice>
+<choice>7</choice>
+<choice>6</choice>
+<question_end />
+<correct>7</correct>
+<question_begin>10 - ... = 3</question_begin>
+<choice>7</choice>
+<choice>4</choice>
+<choice>5</choice>
+<choice>6</choice>
+<question_end />
+<correct>7</correct>
+</question>
+
